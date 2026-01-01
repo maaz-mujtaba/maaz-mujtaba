@@ -13,7 +13,7 @@ B.Tech CS(AI) | AI/ML Engineer |
 ---
 
 ### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Maaz Mujtaba)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mr_Mujtaba)
 
 ---
 
