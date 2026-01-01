@@ -14,8 +14,21 @@ B.Tech CS(AI) | Aspiring AI/ML Engineer
 
 ### 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mr_Mujtaba)
-
 ---
+
+### 🎓 Certifications
+- **Deep Learning Specialization** – Coursera  
+  🔗 https://www.coursera.org/account/accomplishments/verify/PPRL3PGJK6Y6
+
+- **Java (Basic) Certificate** – HackerRank  
+  🔗 https://www.hackerrank.com/certificates/3b94b75057e3
+
+- **Foundations of Coding: Full Stack** – Microsoft  
+  🔗 https://www.hackerrank.com/certificates/3b94b75057e3
+
+- **Introduction to Front-End Development** – Meta (Coursera)  
+  🔗 https://www.coursera.org/account/accomplishments/verify/ISUBJ9Z5XJ8V
+
 
 ### 🚀 Current Project
 - **LogPort** – Logistics & transport management platform
