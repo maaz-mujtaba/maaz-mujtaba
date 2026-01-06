@@ -17,7 +17,7 @@ B.Tech CS(AI) | Aspiring AI/ML Engineer
 ---
 
 ### 🎓 Certifications
-- **Deep Learning Specialization** – Coursera Hello  
+- **Deep Learning Specialization** – Coursera
   🔗 https://www.coursera.org/account/accomplishments/verify/PPRL3PGJK6Y6
 
 - **Java (Basic) Certificate** – HackerRank  
