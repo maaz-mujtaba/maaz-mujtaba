@@ -19,7 +19,6 @@ B.Tech CS (AI) | Aspiring AI/ML Engineer
 - ⭐⭐⭐⭐⭐ Python  
 - ⭐⭐⭐⭐ Java
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/maaz32418)
-- Profile: https://www.hackerrank.com/maaz32418
 
 
 ---
