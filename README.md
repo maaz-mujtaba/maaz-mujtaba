@@ -1,5 +1,5 @@
 ## P.B.U.Y., I'm Maaz Mujtaba 👋
-B.Tech CS(AI) | Aspiring AI/ML Engineer 
+B.Tech CS (AI) | Aspiring AI/ML Engineer  
 
 ---
 
@@ -10,14 +10,24 @@ B.Tech CS(AI) | Aspiring AI/ML Engineer
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+### 🧑‍💻 Competitive Programming
+
+**HackerRank**
+- ⭐⭐⭐⭐⭐ Python  
+- ⭐⭐⭐⭐ Java  
+- Profile: https://www.hackerrank.com/maaz32418
+
+
 ---
 
 ### 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mr_Mujtaba)
+
 ---
 
-
-
-### 🚀 Current Project
-- **LogPort** – Logistics & transport management platform
-- **Samarth** - An AI based Internship Allocation engine
+### 🚀 Current Projects
+- **LogPort** – Logistics & transport management platform  
+- **Samarth** – AI-based internship allocation engine
