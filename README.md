@@ -19,14 +19,11 @@ B.Tech CS (AI) | Aspiring AI/ML Engineer
 - ⭐⭐⭐⭐ Java
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/maaz32418)
 
-**LeetCode**
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Mr_Mujtaba)
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Mr_Mujtaba)
 
-**NeetCode.io**
-- [![NeetCode](https://img.shields.io/badge/NeetCode-Profile-000000?logo=neetcode&logoColor=white)](https://neetcode.io/profile/Mr_Mujtaba)
-- 🎯 Following NeetCode 150 DSA roadmap
-- 📝 Solving problems daily
+---
+
+### 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mr_Mujtaba)
 
 ---
 
