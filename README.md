@@ -1,4 +1,4 @@
-## P.B.U.Y., I'm Maaz Mujtaba 👋
+## P.B.U.Y., I'm Maaz Mujtaba
 B.Tech CS (AI) | Aspiring AI/ML Engineer  
 
 ---
