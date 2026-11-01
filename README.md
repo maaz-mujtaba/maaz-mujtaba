@@ -1,29 +1,31 @@
 
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ====================================================== -->
+<!--                  MAZ MUJTABA - PROFILE                  -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-# Hey, I'm Maaz Mujtaba 
+# Hey, I'm Maaz Mujtaba 👋
 
-### AI/ML Engineer · Backend Developer · Problem Solver
+### AI/ML Engineer | Backend Developer | Problem Solver
 
 Building intelligent systems, scalable backend services, and software that solves real-world problems.
 
 <br/>
 
 <a href="https://github.com/maaz-mujtaba">
-  <img src="https://img.shields.io/badge/GitHub-maaz--mujtaba-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/maaz-mujtaba-b8a7342a4">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/maaz-mujtaba-b8a7342a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:maaz32418@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=maaz-mujtaba&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=maaz-mujtaba&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -33,9 +35,11 @@ Building intelligent systems, scalable backend services, and software that solve
 
 ```python
 class MaazMujtaba:
+
     def __init__(self):
-        self.role = "B.Tech CSE (AI) Student"
+        self.education = "B.Tech CSE (AI)"
         self.college = "PSIT Kanpur"
+
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
@@ -43,11 +47,18 @@ class MaazMujtaba:
             "System Design",
             "Problem Solving"
         ]
-        self.languages = ["Python", "Java", "JavaScript"]
+
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript"
+        ]
+
         self.current_focus = [
-            "Building production-oriented backend systems",
+            "Building scalable backend systems",
             "Developing practical ML applications",
-            "Strengthening DSA and System Design"
+            "Exploring system design",
+            "Solving complex DSA problems"
         ]
 
     def ambition(self):
@@ -57,10 +68,11 @@ class MaazMujtaba:
 me = MaazMujtaba()
 ```
 
--  Pursuing B.Tech in Computer Science & Engineering (AI).
--  Smart India Hackathon 2025 Finalist.
--  Interested in ML engineering, intelligent applications and backend architecture.
--  I enjoy turning complex problems into practical software solutions.
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI) at PSIT Kanpur.
+- 🏆 Smart India Hackathon 2025 Finalist.
+- 🧠 Interested in Machine Learning, AI Engineering and Backend Architecture.
+- ⚡ Passionate about building practical, real-world software.
+- 🌱 Constantly learning, experimenting and building.
 
 ---
 
@@ -68,86 +80,136 @@ me = MaazMujtaba()
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+### Programming Languages
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### Tools & Development
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+### Backend Development
 
-### Machine Learning
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+### Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+### Developer Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  AeriQ
+### 🌍 AeriQ
+
 **Air Quality Prediction & Health Alert System**
 
-- Random Forest regression for AQI prediction.
-- Open-Meteo environmental data integration.
-- Health-risk scoring based on predicted AQI.
+An ML-powered system for predicting air quality and assessing potential health risks.
 
-**Test-set performance**
-- R²: 0.9612
-- MAE: 1.77
-- RMSE: 2.94
+- Integrated environmental data using Open-Meteo API.
+- Implemented Random Forest regression.
+- Developed a health-risk scoring workflow.
 
-`Python` `Random Forest` `Machine Learning`
+**Model Performance (Test Set)**
+
+| Metric | Result |
+|:---|:---|
+| R² | 0.9612 |
+| MAE | 1.77 |
+| RMSE | 2.94 |
+
+`Python` `Random Forest` `ML`
+
+<br/>
+
+[🔗 View Repository](https://github.com/maaz-mujtaba/AeriQ)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Wobega
+
 **Multi-Vendor E-commerce Marketplace**
 
-- REST API development using FastAPI.
-- JWT-based authentication.
-- SQLAlchemy relational data models.
-- Pydantic request/response validation.
+A backend implementation for a multi-vendor e-commerce platform.
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
+- Developed RESTful APIs using FastAPI.
+- Implemented JWT-based authentication.
+- Designed relational database models.
+- Used Pydantic for request/response validation.
+- Tested APIs using Postman.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
+
+<br/>
+
+[🔗 View Repository](https://github.com/maaz-mujtaba/wobega)
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-###  SAMARTH AI
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SAMARTH AI
+
 **AI-Based Internship Allocation Portal**
 
-- ML-powered internship recommendations.
-- XGBoost-based matching engine.
-- Candidate and internship attribute matching.
-- Skills, interests, technology stack and location.
+An intelligent internship allocation platform using machine learning.
+
+- Developed an XGBoost-based matching engine.
+- Analyzed candidate skills and interests.
+- Matched candidates with internship requirements.
+- Considered technology stack, location and stipend.
 
 `Python` `XGBoost` `Machine Learning`
 
-[View Repository](https://github.com/maaz-mujtaba/SAMARTH)
+<br/>
+
+[🔗 View Repository](https://github.com/maaz-mujtaba/SAMARTH)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  LogPort
+### 🚚 LogPort
+
 **Logistics & Commercial Vehicle Platform**
 
-- Commercial vehicle booking concept.
-- Backend-oriented platform architecture.
-- Focus on logistics and transportation workflows.
+A platform focused on commercial vehicle booking and transportation management.
+
+- Focus on logistics workflows.
+- Backend API development.
+- Relational database architecture.
+- Commercial transportation use cases.
 
 `Python` `FastAPI` `SQLAlchemy` `MySQL`
+
+<br/>
+
+[🔗 View Repository](https://github.com/maaz-mujtaba/LogPort)
 
 </td>
 </tr>
@@ -155,72 +217,89 @@ me = MaazMujtaba()
 
 ---
 
-## 🧩 Problem Solving
+## 🧩 Competitive Programming
 
 <div align="center">
 
 ### LeetCode
 
 <a href="https://leetcode.com/u/Mr_Mujtaba/">
-  <img src="https://leetcard.jacoblin.cool/Mr_Mujtaba?theme=dark&font=Baloo&ext=heatmap" width="500" />
-</a>
-
-### HackerRank
-
-<a href="https://www.hackerrank.com/maaz32418">
-  <img src="https://img.shields.io/badge/Python-5%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/maaz32418">
-  <img src="https://img.shields.io/badge/Java-4%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-</div>
-
----
-
-##  GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maaz-mujtaba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-mujtaba&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=maaz-mujtaba&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-##  Achievements & Certifications
-
--  Finalist — Smart India Hackathon 2025.
--  Supervised Machine Learning: Regression and Classification — Coursera.
--  Foundations of Coding Full Stack — Coursera.
-
----
-
-##  Let's Connect
-
-I'm interested in collaborating on:
-
-- AI/ML applications and intelligent systems.
-- Backend engineering and API development.
-- Open-source projects.
-- Interesting engineering and problem-solving challenges.
-
-<div align="center">
-
-**Have an interesting idea? Let's build something together.**
-
-<a href="mailto:maaz32418@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://leetcard.jacoblin.cool/Mr_Mujtaba?theme=dark&font=Baloo&ext=heatmap" width="500" alt="LeetCode Statistics"/>
 </a>
 
 <br/><br/>
 
-*Building. Learning. Shipping. Repeating.*
+### HackerRank
+
+<a href="https://www.hackerrank.com/maaz32418">
+  <img src="https://img.shields.io/badge/Python-5%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/maaz32418">
+  <img src="https://img.shields.io/badge/Java-4%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.hackerrank.com/maaz32418">
+  View HackerRank Profile →
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### Contribution Streak
+
+<a href="https://github.com/maaz-mujtaba">
+  <img src="https://streak-stats.demolab.com?user=maaz-mujtaba&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Contribution Streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/maaz-mujtaba?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/maaz-mujtaba">
+  <img src="https://img.shields.io/badge/View-My_Profile-238636?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Smart India Hackathon 2025** — Finalist.
+  - Contributed to backend development and machine learning.
+- 📜 **Supervised Machine Learning: Regression and Classification** — Coursera.
+- 📜 **Foundations of Coding Full Stack** — Coursera.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+- Artificial Intelligence and Machine Learning applications.
+- Backend engineering and API development.
+- Open-source contributions.
+- Interesting software engineering challenges.
+
+<div align="center">
+
+### Have an interesting idea? Let's build something together.
+
+<a href="mailto:maaz32418@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Building. Learning. Shipping. Repeating.**
 
 </div>
