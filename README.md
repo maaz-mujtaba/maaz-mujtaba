@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hey, I'm Maaz Mujtaba 👋
+# Hey, I'm Maaz Mujtaba 
 
 ### AI/ML Engineer · Backend Developer · Problem Solver
 
@@ -14,7 +14,7 @@ Building intelligent systems, scalable backend services, and software that solve
 <a href="https://github.com/maaz-mujtaba">
   <img src="https://img.shields.io/badge/GitHub-maaz--mujtaba-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/maaz-mujtaba-b8a7342a4">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:maaz32418@gmail.com">
@@ -57,10 +57,10 @@ class MaazMujtaba:
 me = MaazMujtaba()
 ```
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI).
-- 🏆 Smart India Hackathon 2025 Finalist.
-- 🧠 Interested in ML engineering, intelligent applications and backend architecture.
-- ⚡ I enjoy turning complex problems into practical software solutions.
+-  Pursuing B.Tech in Computer Science & Engineering (AI).
+-  Smart India Hackathon 2025 Finalist.
+-  Interested in ML engineering, intelligent applications and backend architecture.
+-  I enjoy turning complex problems into practical software solutions.
 
 ---
 
@@ -87,13 +87,13 @@ me = MaazMujtaba()
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌍 AeriQ
+###  AeriQ
 **Air Quality Prediction & Health Alert System**
 
 - Random Forest regression for AQI prediction.
@@ -125,7 +125,7 @@ me = MaazMujtaba()
 <tr>
 <td width="50%">
 
-### 🤖 SAMARTH AI
+###  SAMARTH AI
 **AI-Based Internship Allocation Portal**
 
 - ML-powered internship recommendations.
@@ -140,7 +140,7 @@ me = MaazMujtaba()
 </td>
 <td width="50%">
 
-### 🚚 LogPort
+###  LogPort
 **Logistics & Commercial Vehicle Platform**
 
 - Commercial vehicle booking concept.
@@ -178,7 +178,7 @@ me = MaazMujtaba()
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -194,15 +194,15 @@ me = MaazMujtaba()
 
 ---
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
-- 🥇 Finalist — Smart India Hackathon 2025.
-- 📜 Supervised Machine Learning: Regression and Classification — Coursera.
-- 📜 Foundations of Coding Full Stack — Coursera.
+-  Finalist — Smart India Hackathon 2025.
+-  Supervised Machine Learning: Regression and Classification — Coursera.
+-  Foundations of Coding Full Stack — Coursera.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in collaborating on:
 
